@@ -4,6 +4,6 @@
   - アカウント名： yama80
   
   
-#今日のタスク
-  - Githubのアカウントを作成する
+#Today's task
+  - GitHubのアカウントを作成する
   - Pull Requestを作成し、コードレビューする
